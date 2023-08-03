@@ -1,2 +1,2 @@
 # Financial-Studies-Project
-Predict the future stock prices.
+The task involves forecasting the upcoming stock prices of the Adani Group subsequent to the decline caused by the Hinderbug's report. To achieve this, we employ two distinct methodologies: a classical approach using the time series ARIMA Model, and a modern deep learning approach using LSTM (Long Short-Term Memory) algorithms. After conducting the analysis, it was evident that the deep learning approach yielded the most favorable outcomes in terms of predictive accuracy and performance.
